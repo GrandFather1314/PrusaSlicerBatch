@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"8deb4af4-a8a7-4492-ba37-3b925937d09b",
+	"author":	"Eric Grimois",
+	"description":	{
+		"":	"Génération automatique des fichiers 3MF, GCode et du manifeste des modèles d'un projet Fusion 360"
+	},
+	"version":	"alpha",
+	"runOnStartup":	false,
+	"supportedOS":	"windows",
+	"editEnabled":	true
+}
